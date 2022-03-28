@@ -4,6 +4,4 @@ Version control is an essential skill for developers to master, and Git is by fa
 
 ## What's more (first modification)
 
-### One more change (second modification)
-
 Plus, you'll learn how to work with the popular GitHub website to explore existing projects, clone them to your local hard drive, and use them as templates for your new projects.
